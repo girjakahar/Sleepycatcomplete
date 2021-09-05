@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-05T21:31:06 IST" name="Default suite" finished-at="2021-09-05T21:31:39 IST" duration-ms="33078">
+    <groups>
+    </groups>
+    <test started-at="2021-09-05T21:31:06 IST" name="Default test" finished-at="2021-09-05T21:31:39 IST" duration-ms="33078">
+      <class name="Testsleepy.CartSliderTest">
+        <test-method is-config="true" signature="logi()[pri:0, instance:Testsleepy.CartSliderTest@4f2c9ba6]" started-at="2021-09-05T21:31:06 IST" name="logi" finished-at="2021-09-05T21:31:08 IST" duration-ms="1658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logi -->
+        <test-method signature="cartSliderTest()[pri:0, instance:Testsleepy.CartSliderTest@4f2c9ba6]" started-at="2021-09-05T21:31:08 IST" name="cartSliderTest" finished-at="2021-09-05T21:31:39 IST" duration-ms="31352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartSliderTest -->
+      </class> <!-- Testsleepy.CartSliderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

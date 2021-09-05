@@ -1,0 +1,22 @@
+16:02:01.439 [main] INFO  Resources.Basesleepy - Website opened Successfully
+16:02:01.596 [main] INFO  Resources.Basesleepy - Website is maximized
+16:02:19.691 [main] INFO  Resources.Basesleepy - Submenu link is opened
+19:11:28.623 [main] INFO  Resources.Basesleepy - Website opened Successfully
+19:11:28.756 [main] INFO  Resources.Basesleepy - Website is maximized
+19:11:48.960 [main] INFO  Resources.Basesleepy - Submenu link is opened
+21:12:44.189 [main] INFO  Resources.Basesleepy - Website opened Successfully
+21:12:44.357 [main] INFO  Resources.Basesleepy - Website is maximized
+21:13:04.477 [main] INFO  Resources.Basesleepy - Offer modal is closed
+21:13:04.581 [main] INFO  Resources.Basesleepy - Clicked on Cart icon
+21:16:41.661 [main] INFO  Resources.Basesleepy - Website opened Successfully
+21:16:41.781 [main] INFO  Resources.Basesleepy - Website is maximized
+21:17:01.879 [main] INFO  Resources.Basesleepy - Offer modal is closed
+21:17:01.979 [main] INFO  Resources.Basesleepy - Clicked on Cart icon
+21:31:17.491 [main] INFO  Resources.Basesleepy - Website opened Successfully
+21:31:17.674 [main] INFO  Resources.Basesleepy - Website is maximized
+21:31:37.851 [main] INFO  Resources.Basesleepy - Offer modal is closed
+21:31:38.427 [main] INFO  Resources.Basesleepy - Clicked on Cart icon
+21:31:38.747 [main] INFO  Resources.Basesleepy - Click on Add to cart button for single comforter
+21:31:39.552 [main] INFO  Resources.Basesleepy - Increment product quantity
+21:31:39.677 [main] INFO  Resources.Basesleepy - Decrese quantity by one
+21:31:39.817 [main] INFO  Resources.Basesleepy - Clicked on remove product icon from cart slider 

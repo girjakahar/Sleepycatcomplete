@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Testsleepy.logintest"/>
+      <class name="Testsleepy.Soundsleepsection"/>
+      <class name="Testsleepy.Bannerlinkingtest"/>
+      <class name="Testsleepy.forgetpassword"/>
+      <class name="Testsleepy.Homepage"/>
+      <class name="Testsleepy.Addtocartflow"/>
+      <class name="Testsleepy.Socialmedialinks"/>
+      <class name="Testsleepy.footerlinkTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
